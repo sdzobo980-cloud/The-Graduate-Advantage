@@ -1,0 +1,6 @@
+{
+  "name": "The Graduate Advantage",
+  "description": "Prepare. Present. Progress. Practical AI-powered career development tools for university students, recent graduates and young professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
